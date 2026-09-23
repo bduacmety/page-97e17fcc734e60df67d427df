@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://foofriends.com/sitemap.xml
